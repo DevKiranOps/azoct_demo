@@ -2,3 +2,6 @@ name="Kiran"
 location="Hyderabad"
 age="121"
 id="700"
+bloodGroup="Bombay"
+salary="250"
+
