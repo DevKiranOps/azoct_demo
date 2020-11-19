@@ -8,6 +8,7 @@ echo "Garbage Right now"
 
 ehco "adklfjawdlj"
 
+echo "added new line"
 
 echo "These lines are added by developer sam curran"
 
