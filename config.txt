@@ -1,4 +1,5 @@
 country_code: IN
 state_codes: [AP, AR, DL, CG, TG, TN, KR, KA]
 area_codes: ["040" , "022", "044", "001" ]
-key4: value4
+regions: ["NW", "NE", "Central" ] 
+
