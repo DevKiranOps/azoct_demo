@@ -17,3 +17,15 @@ if [[ $age -gt 20 ]]
 then
      echo "May not be Genx"
 fi
+
+# Adding address validation
+
+if [[ $country_code == "IN" ]]
+then
+	echo " indian citizen"
+	echo "Allow "
+else
+	echo " foreign national"
+	echo " send to immigration"
+fi
+
