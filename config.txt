@@ -1,4 +1,4 @@
 country_code: IN
-states: [TG, AP, TN, KR, CH] 
+state_codes: [AP, AR, DL, CG, TG, TN, KR, KA]
 key3: value3
 key4: value4
