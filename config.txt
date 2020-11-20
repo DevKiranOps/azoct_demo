@@ -1,4 +1,4 @@
 country_code: IN
-key2: value2
+states: [TG, AP, TN, KR, CH] 
 key3: value3
 key4: value4
