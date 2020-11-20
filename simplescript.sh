@@ -8,9 +8,11 @@ echo "Garbage Right now"
 
 ehco "adklfjawdlj"
 
+# The below code is going to fix add a new feature
 
-echo "These lines are added by developer sam curran"
+echo "Calculate xyz"
 
-DJfa;lsdkj;lasd
-kladjfsd;ljasd;l
-;ljkdafkljd
+if [[ $age -gt 20 ]]
+then
+     echo "May not be Genx"
+fi
